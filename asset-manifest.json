@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landing-defi/static/css/main.4072e2b8.css",
+    "main.js": "/landing-defi/static/js/main.8031f386.js",
+    "static/media/video.mp4": "/landing-defi/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/terminal.png": "/landing-defi/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/landing-defi/index.html",
+    "main.4072e2b8.css.map": "/landing-defi/static/css/main.4072e2b8.css.map",
+    "main.8031f386.js.map": "/landing-defi/static/js/main.8031f386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4072e2b8.css",
+    "static/js/main.8031f386.js"
+  ]
+}
